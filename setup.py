@@ -12,7 +12,7 @@ setup(
     install_requires=["ttclust",
                       'RXPY>=0.1.0',
                       'wxpython==4.0.0b1',
-                      'Pillow==4.3.0',
+                      'Pillow==6.2.0',
                       'psutil==5.6.6',
                       'gooey'],
     entry_points={'gui_scripts':['ttclustGUI=ttclust.ttclustGUI:main']},
