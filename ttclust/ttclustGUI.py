@@ -119,7 +119,6 @@ def rename_args_keys(args):
 
 
 def main():
-    os.chdir("D:\\CLOUDS\\GoogleDrive\\WORK\\Perso\\DEV\\ttclust\\examples")
     if (sys.platform == 'darwin' and
         ('| packaged by conda-forge |' in sys.version or
          '|Anaconda' in sys.version)):
